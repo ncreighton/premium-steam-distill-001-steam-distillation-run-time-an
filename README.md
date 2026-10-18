@@ -1,0 +1,2 @@
+# premium-steam-distill-001-steam-distillation-run-time-an
+Tired of inconsistent yields and guessing when your distillation run is complete? Stop relying on memory and start tracking every critical variable with the Steam Distillation Run Time and Yield Tracker.  This Notion template automates yield calculations, logs run times, and organizes batch notes so you can replicate your most successful runs with
